@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "objtitle_encompass",
     "eventList": [
-        
+        {
+            "id": "67f9d986-9a3c-439d-a595-b7e3a5faa2a1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "c07e42f5-5a18-4b15-af2a-df7b3bdfa8b0"
+        },
+        {
+            "id": "56324d76-406e-4341-9044-c85ce18c8afd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "c07e42f5-5a18-4b15-af2a-df7b3bdfa8b0"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
