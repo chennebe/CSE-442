@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "b409645e-46e7-4c0d-b1f4-b1754d9d5c11"
+        },
+        {
+            "id": "a4d5d069-c315-4537-a8ac-4e6427448b2a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b409645e-46e7-4c0d-b1f4-b1754d9d5c11"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -45,6 +55,20 @@
             "value": "12",
             "varName": "walking_speed",
             "varType": 1
+        },
+        {
+            "id": "6471ad3e-7cac-40f4-a376-ce86fe332f5d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "is_sword_swinging",
+            "varType": 3
         }
     ],
     "solid": false,
